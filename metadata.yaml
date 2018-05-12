@@ -1,0 +1,40 @@
+_repo: The-Mind-of-the-Child-Part-IISeries-Edited-By-William-T.-Harris-Volume-IX._19549
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brown, Henry W.
+    gutenberg_agent_id: '37696'
+    url: http://www.gutenberg.org/2009/agents/37696
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Preyer, William T.
+    alias: Preyer, Wilhelm Thierry
+    birthdate: 1841
+    deathdate: 1897
+    gutenberg_agent_id: '8739'
+    url: http://www.gutenberg.org/2009/agents/8739
+    wikipedia: http://de.wikipedia.org/wiki/William_Thierry_Preyer
+description: 'Translation of: Seele des Kindes'
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2006-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Child development'
+- !lcc 'LB'
+- !lcsh 'Child psychology'
+title: 'The Mind of the Child, Part II
+
+  The Development of the Intellect, International Education
+
+  Series Edited By William T. Harris, Volume IX.'
+url: http://www.gutenberg.org/ebooks/19549
